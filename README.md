@@ -73,4 +73,4 @@ Run that cell once. Running it again gives a "table already exists" error, which
 
 ## Author
 
-Lio · [GitHub](https://github.com/djluc
+Lio · [GitHub](https://github.com/djluci
